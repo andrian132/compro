@@ -1,0 +1,12 @@
+
+.container{
+    width: 500;
+    text-align: center;
+    background-color: aqua;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.list{
+   margin-right: 50px; 
+}
